@@ -1,0 +1,15 @@
+realtimestt
+realtimetts[coqui]
+numpy
+pygame
+sounddevice
+soundfile
+flask
+pyaudio
+hangul-romanize
+mecab-python3
+unidic-lite
+torch
+torchvision
+mlx
+mlx-vlm
